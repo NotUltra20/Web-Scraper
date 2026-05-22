@@ -65,6 +65,5 @@ py scraper.py -v
 
 ## Observações
 
-- Respeite os termos de uso do site e use delays adequados.
 - Alguns campos podem vir vazios se a ONG não os preencheu no cadastro.
 - A codificação do site é Latin-1; o scraper trata isso automaticamente.
