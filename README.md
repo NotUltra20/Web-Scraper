@@ -28,7 +28,7 @@ py -m pip install -r requirements.txt
 py scraper.py
 ```
 
-Isso pode levar **várias horas** (centenas de ONGs × ~1 s por requisição). O progresso é salvo em `checkpoint.json`; se interromper, execute de novo para continuar.
+Isso pode levar de **várias horas** à **alguns minutos** (centenas de ONGs × ~1 s por requisição). O progresso é salvo em `checkpoint.json`; se interromper, execute de novo para continuar.
 
 ### Opções úteis
 
